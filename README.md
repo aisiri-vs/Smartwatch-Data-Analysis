@@ -15,7 +15,7 @@ Note: This project uses a sample dataset. For privacy reasons, real user data is
 
 ## Project Structure
 - `smartwatch_analysis.ipynb`: Jupyter notebook containing the full analysis
-- `data/`: Folder containing the dataset
+- `dailyActivity_merged.csv`: Folder containing the dataset
 
 ## Tools Used
 - Python 3.x
